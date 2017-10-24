@@ -1,0 +1,60 @@
+
+body {
+    margin: 0px;
+    padding: 0px;
+
+    font-family: 'Josefin Slab', serif;
+    font-size: 18px;
+    line-height: 28px;
+
+    background-color: yellow;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Amatic SC', cursive;
+}
+
+header {
+    background-color: yellow;
+}
+
+.content {
+    border: 1px solid red;
+    width: 99%;
+    /* width: 270px; */
+    /* margin: 0px 20px; */
+    padding: 40px 0px;
+}
+
+header .content #logo {
+    text-decoration: none;
+    color: red;
+}
+
+main .content {
+    padding: 20px 0px;
+}
+
+@media ( min-width: 568px ) {
+
+    body {
+        background-color: orange;
+    }
+
+    .content {
+        width: 500px;
+    }
+
+}
+
+@media ( min-width: 768px ) {
+    
+        body {
+            background-color: green;
+        }
+
+        .content {
+            width: 500px;
+        }
+    
+    }
