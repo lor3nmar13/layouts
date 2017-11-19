@@ -1,0 +1,268 @@
+body {
+    margin:0;
+    background: grey;
+}
+
+#one{
+    border: black solid 3px;
+    height: 500px;
+    width:600px;
+    display:flex;
+    flex-flow: row;
+
+    
+}
+
+#firstcolumn {
+    border:black solid 3px;
+    height:500px;
+    width: 100px;
+    display:flex;
+    flex-flow: column;
+}
+
+#two {
+    border:black solid 3px;
+    height: 100px;
+    width: 100px;
+
+}
+
+#three {
+    border: black solid 3px;
+    height:400px;
+    width:100px;
+    display: flex;
+    flex-flow: column-reverse;
+    align-items: flex-end;
+}
+
+.threea {
+    border: solid black 2px;
+    display:flex;
+    flex-flow: column;
+    width:75px;
+    height: 50px;
+    margin:8px;
+    align-self: flex-end;
+    
+}
+
+#secondcolumn {
+    border: solid black 3px;
+    height: 500px;
+    width: 300px;
+    display:flex;
+    flex-flow:column;
+}
+
+#six {
+    border: solid black 2px;
+    height:10px;
+    width: 300px;
+}
+
+#eight {
+    height: 80px;
+    width: 300px;
+    display:flex;
+    flex-flow: row;
+    justify-content: space-between
+}
+ .eighta {
+     height: 50px;
+     width: 50px;
+     border: solid black 3px;
+     margin: 5px;
+ }
+
+ #nine {
+     height:200px;
+     width: 300px;
+     border: solid black 3px;
+ }
+
+ #teens {
+     display:flex;
+     flex-flow:row;
+     border:black 3px solid;
+ }
+
+ #fourteen {
+     border: solid black 3px;
+     display:flex;
+     align-items: center;
+     height:200px;
+ }
+
+ #fourteena {
+     height:50px;
+     width: 75px;
+     border: black solid 3px;
+     margin:5px;
+
+ }
+
+ #fifteen {
+    border: solid black 3px;
+    display:flex;
+    flex-flow: column;
+    align-items: center;
+    height:200px;
+    justify-content: center;
+}
+
+.fifteena {
+    height:50px;
+    width: 75px;
+    border: black solid 3px;
+    margin:5px;
+}
+
+#sixteen {
+    border: solid black 3px;
+    display:flex;
+    align-items: center;
+    height:200px;
+}
+
+#sixteena {
+    height:50px;
+    width: 80px;
+    border: black solid 3px;
+    margin: 7px;
+
+}
+#thirdcolumn {
+    border: solid black 3px;
+    height: 500px;
+    width: 200px;
+    display:flex;
+    flex-flow: column;
+}
+
+#uno {
+    border: solid black 2px;
+    height:10px;
+    width: 178px;
+}
+
+#dos {
+    display:flex;
+    flex-flow: row;
+    height:100px;
+    width:178px;
+    align-items: center;
+}
+
+#container {
+    height:98px;
+    width:125px;
+    border: black solid 2px;
+}
+
+.squares {
+    border: solid black 2px;
+    height: 40px;
+    width: 50px;
+    margin:5px;
+
+}
+
+#tres {
+    height: 100px;
+    width: 160px;
+    margin:10px;
+    border: black solid 2px;
+    float:right;
+}
+
+.tresbox {
+    height: 25px;
+    width: 25px;
+    border: black solid 3px;
+    margin: 5px;
+    float: right;
+}
+
+#cuatro {
+        display:flex;
+        flex-flow: column;
+        align-items: flex-end;
+        height: 75px;
+        width: 160px;
+        justify-content: flex-end;
+        align-items: flex-end;
+        margin:10px;
+        border: solid black 2px;
+
+}
+
+#cuatrobox {
+    height: 25px;
+    width: 25px;
+    border: black solid 3px;
+    margin: 5px;
+}
+
+#cinco {
+    height: 150px;
+    width: 178px;
+    display:flex;
+    flex-flow: row;
+    align-items: center;
+}
+
+#eighteen {
+    border: solid black 2px;
+    height: 148px;
+    width: 100px;
+    margin:3px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#nineteen {
+    border: solid black 2px;
+    height: 148px;
+    width: 100px;
+    margin:3px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#eighteenbox {
+    height:25px;
+    width:25px;
+    border:black solid 2px;
+}
+
+#nineteenbox {
+    height: 25px;
+    width:25px;
+    border: black solid 2px;
+}
+
+footer {
+    border: solid black 3px;
+    width:600px;
+    height: 15px;
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+}
+
+#long {
+    height:15px;
+    width:300px;
+    border: solid black 3px;
+}
+
+#longer {
+    height:15px;
+    width:300px;
+    border: solid black 3px;
+}
+

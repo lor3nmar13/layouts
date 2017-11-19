@@ -1,0 +1,44 @@
+body:
+{
+    margin:0
+}
+#parent {
+   display: flex;
+   flex-direction: row;
+   border:solid black 3px;
+   height: 500px;
+   width: 800px;
+   background-color: grey;
+   justify-content: space-around;
+}
+
+#southern {
+    display:flex;
+    flex-direction:row;
+    height: 100px;
+    width: 800px;
+    justify-content:space-between;
+    align-self: flex-end;
+    margin:8px;
+}
+
+.square {
+    height:100px;
+    width:100px;
+    border:solid 3px goldenrod;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#square {
+    height:300px;
+    width:300px;
+    border: solid purple 3px;
+}
+
+#rectangle {
+    height: 150px;
+    width:300px;
+    border: solid green 3px;
+}

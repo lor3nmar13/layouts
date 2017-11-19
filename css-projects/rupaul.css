@@ -1,0 +1,100 @@
+
+.red {
+    border: 1px solid red;
+}
+
+.blue {
+    border: 1px solid blue;
+}
+
+.orange {
+    border: 1px solid orange;
+}
+
+.kt-button {
+    border: 5px solid gold;
+}
+
+.kt-button:hover {
+    border: 5px solid green;
+}
+
+
+
+body {
+    margin:0;
+}
+
+#container {
+    display:flex;
+    width:800px;
+    flex-flow: column;
+   
+}
+
+#abc {
+    display:flex;
+    flex-flow: row;
+}
+
+#a {
+    width:421px;
+    height: 326px;
+    background-color:grey;
+}
+
+#bc {
+    width:421;
+    height: 326;
+    display:flex;
+    flex-flow: column;
+}
+
+#b {
+    width:379px;
+    height:160px;
+    background-color: lavender;
+}
+
+#c {
+    width:379px;
+    height: 166px;
+    background-color: purple;
+}
+
+#row {
+    display:flex;
+    flex-direction: row;
+
+}
+
+#blue {
+    width: 160px;
+    height: 123px;
+    background-color:teal;
+}
+
+
+#yellow {
+    width: 160px;
+    height: 123px;
+    background-color:black;
+}
+
+#red {
+    width: 160px;
+    height: 123px;
+    background-color:teal;
+}
+
+#green {
+    width: 160px;
+    height: 123px;
+    background-color:black;
+}
+
+#purple {
+    width: 160px;
+    height: 123px;
+    background-color:teal;
+}

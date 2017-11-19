@@ -1,0 +1,38 @@
+ body {
+    margin:0
+}
+
+#blank {
+    width:700px;
+    height:250px;
+    border:solid black 3px;
+    background:lightseagreen;
+}
+
+#work {
+    display:flex;
+    flex-flow: row;
+    border:solid black 3px;
+    height: 250px;
+    width: 700px;
+    background-color: lightseagreen;
+    align-content: space-around
+}
+
+#rectangle {
+    display:flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border: solid 3px navy;
+    width:200px;
+    padding:5px;
+
+}
+.grid {
+    width: 60px;
+    height: 60px;
+    border: solid 3px darkred;
+
+}
+

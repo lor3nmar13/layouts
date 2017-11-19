@@ -1,0 +1,248 @@
+body {
+    margin:0;
+}
+
+#a {
+    display:flex;
+    flex-flow:row;
+    width:800px;
+}
+
+#b {
+    display:flex;
+    flex-flow: column;
+}
+
+#f {
+    width: 155px;
+    height: 155px;
+    background-color: grey;
+}
+#g {
+    height: 432px;
+    width: 155px;
+    background-color:teal;
+}
+
+#h {
+    width:155px;
+    height:51px;
+    background-color: grey;
+}
+
+#i {
+    width:155px;
+    height: 51px;
+    background-color:teal;
+}
+
+#d {
+    width:646px;
+
+}
+
+#j {
+    width:646px;
+    height: 39px;
+    background-color: blue;
+}
+
+#c {
+    display:flex;
+    flex-flow: row;
+}
+
+#m {
+    display:flex;
+    flex-flow:row;
+}
+
+#n {
+    display:flex;
+    flex-flow:column;
+}
+
+#k {
+    height:116px;
+    width:412px;
+    background-color: green;
+}
+
+#l {
+    height: 189px;
+    width:412px;
+    background-color:blue;
+}
+
+#o {
+    display: flex;
+    flex-flow: column;
+}
+
+#p {
+    display: flex;
+    flex-flow: row;
+}
+
+#q {
+    height: 198px;
+    width: 129px;
+    background-color:yellow;
+}
+#r {
+    display: flex;
+    flex-flow: column;
+}
+#aa {
+    height: 99px;
+    width: 104px;
+    background-color: red;
+}
+
+#bb {
+    height: 99px;
+    width:104px;
+    background-color: blue;
+}
+
+#z {
+    height: 107px;
+    width: 233px;
+    background-color:navy;
+}
+
+#e {
+    display:flex;
+    flex-flow: row;
+}
+
+#s {
+    display:flex;
+    flex-flow: row;
+}
+
+#w {
+    display:flex;
+    flex-flow: column;
+}
+
+#y {
+    display:flex;
+    flex-flow: row;
+}
+
+#t {
+    display:flex;
+    flex-flow: column;
+}
+
+#u {
+    display: flex;
+    flex-flow: column;
+}
+
+#v {
+    display:flex;
+    flex-flow: column;
+}
+
+#cc {
+    height: 139px;
+    width:128px;
+    background-color: grey;
+}
+
+#dd {
+    width: 128px;
+    height: 68px;
+    background-color: blue;
+}
+
+#ee {
+    width:128px;
+    height: 138px;
+    background-color: orchid;
+}
+
+#ff {
+    width: 156px;
+    height: 68px;
+    background-color: green;
+}
+
+#gg {
+    width:156px;
+    height: 68px;
+    background-color: purple;
+}
+
+#hh {
+    width: 156px;
+    height: 68px;
+    background-color: red;
+}
+
+#ii {
+    width:156px;
+    height: 68px;
+    background-color: indianred;
+}
+
+#jj {
+    width:156px;
+    height: 73px;
+    background-color: wheat;
+}
+
+#kk {
+    width: 128px;
+    height: 139px;
+    background-color:darkolivegreen;
+}
+
+#ll {
+    width: 128px;
+    height: 68px;
+    background-color:maroon;
+}
+
+#mm {
+    width: 128px;
+    height: 138px;
+    background-color:aqua;
+}
+
+#x {
+    width: 233px;
+    height: 158px;
+    background-color: rebeccapurple;
+}
+
+#nn {
+    width:117px;
+    height: 187px;
+    background-color: gold;
+}
+
+#oo {
+    width:116px;
+    height: 187px;
+    background-color: orange;
+}
+
+footer {
+    display:flex;
+    flex-flow: row;
+}
+
+#pp {
+    width:400px;
+    height: 55px;
+    background-color: saddlebrown;
+}
+
+#qq {
+    width:400px;
+    height: 55px;
+    background-color: cadetblue;
+}

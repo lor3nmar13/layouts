@@ -1,0 +1,46 @@
+
+
+#first {
+    border: black 3px solid;
+    width:732px;
+    height:100px;
+    background-color:blueviolet;
+    margin:0;
+    padding: 0;
+    display:flex;
+    flex-flow:row;
+    justify-content: center;
+    margin:5px;
+            }
+
+#character{
+    background-color: grey;
+    height: 100px;
+    width:333px;
+
+}
+
+#large {
+    border: black 2px solid;
+    width: 739px;
+    height: 300px;
+    background-color: navy;
+    margin: 5px;
+}
+
+#float {
+    border: solid black 3px;
+    height:200px;
+    width:400px;
+    position:absolute;
+    background-color: navajowhite;
+    left: 23%;
+    bottom:45%
+    
+}
+
+#outer {
+    position:relative;
+    height: 500px;
+    width:750px;
+}

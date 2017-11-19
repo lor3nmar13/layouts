@@ -1,0 +1,101 @@
+body {
+    margin:0;
+}
+
+#a {
+    display: flex;
+    flex-flow: column;
+    width:800px;
+}
+
+#b {
+    display:flex;
+    flex-flow: row;
+    height:122px;
+}
+
+#e {
+    width: 58px;
+    height: 122px;
+    background-color: royalblue;
+}
+
+#f {
+    width: 313px;
+    height: 122px;
+    background-color: wheat;
+}
+
+#g {
+    width: 58px;
+    height: 122px;
+    background-color: royalblue;
+}
+
+#h {
+    width: 313px;
+    height: 122px;
+    background-color: wheat;
+}
+
+#i {
+    width: 58px;
+    height: 122px;
+    background-color: royalblue;
+}
+
+#c {
+    display: flex;
+    flex-flow: row;
+}
+
+#j {
+    width: 161px;
+    height: 154;
+    background-color:grey;
+}
+
+#k {
+    width:478px;
+    height: 154px;
+    background-color:lightcoral;
+}
+
+#l {
+    width:161px;
+    height: 154px;
+    background-color: grey;
+}
+
+#d {
+    display:flex;
+    flex-flow: row;
+    height: 173px;
+}
+
+#m {
+    height:173px;
+    width:215px;
+    background-color: brown;
+}
+
+#p {
+    display:flex;
+    flex-flow: column;
+}
+
+#n {
+    width: 585px;
+    height: 138px;
+    background-color:green;
+}
+
+#o {
+    width:585px;
+    height: 35px;
+    background-color: blue;
+}
+
+
+
+

@@ -1,0 +1,88 @@
+body {
+    margin:0;
+}
+
+#a {
+    display: flex;
+    flex-flow: row;
+    width:800px;
+   
+}
+
+#b {
+    height: 449px;
+    width:184px;
+    background-color: grey;
+}
+
+#right {
+    display:flex;
+    flex-flow: column;
+    width:616px;
+}
+
+#one {
+    display: flex;
+    flex-flow: row;
+    height:131px;
+}
+
+#c { 
+    width: 106px;
+    height:131px;
+    background-color: teal;
+
+}
+
+#d {
+    height:131px;
+    width: 404px;
+    background-color: burlywood;
+}
+
+#e {
+    width:106px;
+    height: 131px;
+    background-color:teal;
+}
+
+#two {
+    display:flex;
+    flex-flow: row;
+    height: 76px;
+}
+
+#f {
+    width: 154px;
+    height: 76px;
+    background-color: paleturquoise;
+    
+}
+
+#g {
+    width: 154px;
+    height: 76px;
+    background-color: gray;
+    
+}
+
+#h {
+    width: 154px;
+    height: 76px;
+    background-color: paleturquoise;
+    
+}
+
+#i {
+    width: 154px;
+    height: 76px;
+    background-color: gray;
+    
+}
+
+
+#j {
+    width: 616px;
+    height: 242px;
+    background-color:goldenrod;
+}
